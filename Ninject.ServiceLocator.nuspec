@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Ninject.ServiceLocator</id>
+    <version>1.0</version>
+    <authors>Andy Sherwood</authors>
+    <owners>Andy Sherwood</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a source only package that implements the Common Service Locator interface using Ninject</description>
+    <tags>IoC,CSL</tags>
+    <dependencies>
+      <dependency id="Ninject" version="2.2.1.0" />
+      <dependency id="CommonServiceLocator" version="1.0" />
+    </dependencies>  
+  </metadata>
+</package>
